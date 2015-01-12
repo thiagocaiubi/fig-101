@@ -1,0 +1,25 @@
+{
+  "name": "fig-101",
+  "description": "fig-101 demonstrates how to use fig to run a nodejs web app and a redis server in distinct containers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "hiredis": "^0.1.17",
+    "redis": "^0.12.1",
+    "restify": "^2.8.4"
+  },
+  "devDependencies": {},
+  "repository": "thiagocaiubi/fig-101",
+  "keywords": [
+    "fig",
+    "docker",
+    "nodejs",
+    "node",
+    "redis"
+  ],
+  "author": "Thiago Caiubi",
+  "bugs": {
+    "url": "https://github.com/thiagocaiubi/fig-101/issues"
+  },
+  "homepage": "https://github.com/thiagocaiubi/fig-101"
+}
